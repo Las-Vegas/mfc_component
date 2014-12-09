@@ -1,4 +1,4 @@
 mfc_component
 =============
-bla bla bla
+bla bla bla gfgf
 My MFC components
